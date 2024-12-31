@@ -1,5 +1,5 @@
 ### About me 😱
-Hi! I am Ostensibly, I am a passioante developer hailing from the Philippines developing software works for the better future. My pursuit for technology, software making, and programming are cranked to the absolute to ensure my repositories, software works, programs, and small projects ensure quality, performance, strength, and a sense of security.
+Hi! I am Ostensibly, I am a passionate developer hailing from the Philippines developing software works for the better future. My pursuit for technology, software making, and programming are cranked to the absolute to ensure my repositories, software works, programs, and small projects ensure quality, performance, strength, and a sense of high-grade security. I am a student white hat siding of the greatness in security and integrity for the greater good and contribute to the society. My dreams and hopes of becoming one of the best full-stack developers is what drives me to do these works, ensuring to keep going for the goal until achieved.
 
 ### Languages 📘👩‍💻 (How often I use them based on the percentage)
 - Lua (80 to 90%)
