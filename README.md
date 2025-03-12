@@ -1,5 +1,5 @@
 ### About me 😱
-Hi! The name's Oxidane, I am also known as Ostensibly, I come from the Philippines and I like to write code and I am training to become a DevOps engineer and as a side job, a lawyer. On my GitHub Page, you'll discover my fun, little, and sometimes silly projects.
+Hi! The name's Oxidane, I am also known as Ostensibly, I come from the Philippines and I like to write code and I am training to become a DevOps engineer. On my GitHub Page, you'll discover my fun, little, and sometimes silly projects.
 
 ### Languages 📘👩‍💻 (How often I use them based on the percentage)
 - Lua (80 to 90%)
