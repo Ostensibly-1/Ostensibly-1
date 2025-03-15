@@ -3,11 +3,11 @@ Hi! The name's Oxidane, I am also known as Ostensibly, I come from the Philippin
 
 ### Languages 📘👩‍💻 (How often I use them based on the percentage)
 - Lua (80 to 90%)
-- Javascript (85% to 90%)
-- Typescript (75% to 80%)
-- Rust (soon)
-- Golang (barely)
-- C# (20%)
+- Typescript (85% to 90%)
+- Javascript (75% to 80%)
+- Go (30% to 50%)
+- C++ (1 to 10%)
+- C# (barely)
 
 ### Current Projects 💻
 - [Loona](https://loona-lua.vercel.app/), The best free lua obfuscation program
